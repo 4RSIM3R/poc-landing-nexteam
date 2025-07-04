@@ -184,9 +184,18 @@ export default function NexteamLanding() {
           </motion.div>
 
           <motion.div variants={scaleOnHover} whileHover="hover" whileTap="tap">
-            <Button className="bg-blue-600 hover:bg-blue-700 text-white shadow-lg">
-              Get Free Consultation
-              <ArrowRight className="ml-2 w-4 h-4" />
+            <Button 
+              className="bg-blue-600 hover:bg-blue-700 text-white shadow-lg"
+              asChild
+            >
+              <a 
+                href="https://calendly.com/ilzam/project-discussion" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                Get Free Consultation
+                <ArrowRight className="ml-2 w-4 h-4" />
+              </a>
             </Button>
           </motion.div>
         </div>
@@ -239,9 +248,16 @@ export default function NexteamLanding() {
                 <Button
                   size="lg"
                   className="bg-blue-600 hover:bg-blue-700 text-white shadow-xl text-lg"
+                  asChild
                 >
-                  <Calendar className="mr-2 w-5 h-5" />
-                  Get Your Free SAAS Consultation
+                  <a 
+                    href="https://calendly.com/ilzam/project-discussion" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                  >
+                    <Calendar className="mr-2 w-5 h-5" />
+                    Get Your Free SAAS Consultation
+                  </a>
                 </Button>
               </motion.div>
 
@@ -653,9 +669,16 @@ export default function NexteamLanding() {
                 <Button
                   size="lg"
                   className="bg-white text-blue-700 hover:bg-gray-100 shadow-xl text-lg font-semibold"
+                  asChild
                 >
-                  <Calendar className="mr-2 w-5 h-5" />
-                  Schedule Free Consultation
+                  <a 
+                    href="https://calendly.com/ilzam/project-discussion" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                  >
+                    <Calendar className="mr-2 w-5 h-5" />
+                    Schedule Free Consultation
+                  </a>
                 </Button>
               </motion.div>
 
