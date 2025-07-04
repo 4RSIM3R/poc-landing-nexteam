@@ -1,7 +1,7 @@
 Nexteam Teknologi Indonesia
 
 ABOUT US:
-Nexteam is a software development agency based in Jakarta, Indonesia, specializing in budget-friendly and proportional SAAS solutions. We have over 5+ years of experience in building web applications and focus on rapid development using modern technologies.
+Nexteam is a software development agency based in Pasuruan, Indonesia, specializing in budget-friendly and proportional SAAS solutions. We have over 5+ years of experience in building web applications and focus on rapid development using modern technologies.
 
 CORE SERVICES:
 - SAAS Development: Transform ideas into fully functional SAAS applications
@@ -62,7 +62,7 @@ COMPETITIVE ADVANTAGES:
 CONTACT INFORMATION:
 - Website: https://nexteam.id
 - Email: contaxt@nexteam.id
-- Location: Jakarta, Indonesia
+- Location: Pasuruan, Indonesia
 - Service Area: Indonesia and Southeast Asia
 
 BUSINESS MODEL:

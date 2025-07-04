@@ -120,7 +120,7 @@ export const metadata: Metadata = {
   classification: "Software Development Agency",
   other: {
     "geo.region": "ID-JK",
-    "geo.placename": "Jakarta",
+    "geo.placename": "Pasuruan",
     "geo.position": "-6.2088;106.8456",
     ICBM: "-6.2088, 106.8456",
   },
@@ -178,7 +178,7 @@ export default function RootLayout({
                   numberOfEmployees: "5-10",
                   address: {
                     "@type": "PostalAddress",
-                    addressLocality: "Jakarta",
+                    addressLocality: "Pasuruan",
                     addressCountry: "ID",
                   },
                   contactPoint: {

@@ -811,7 +811,7 @@ export default function NexteamLanding() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <div className="space-y-2 text-slate-600">
-                <p>Jakarta, Indonesia</p>
+                <p>Pasuruan, Indonesia</p>
                 <p>contact@nexteam.id</p>
                 <p>+62-812-1714-1850</p>
               </div>

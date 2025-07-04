@@ -5,7 +5,7 @@ SITE PURPOSE:
 This is the official website of Nexteam Teknologi Indonesia, a software development agency specializing in SAAS solutions.
 
 BUSINESS DESCRIPTION:
-Nexteam is a Jakarta-based software development agency with 5+ years of experience. We specialize in creating budget-friendly SAAS applications using Laravel, Inertia.js, and Tailwind CSS. Our unique value proposition is delivering complete SAAS solutions in just 2-3 weeks through AI-assisted programming and pre-built generic solutions.
+Nexteam is a Pasuruan-based software development agency with 5+ years of experience. We specialize in creating budget-friendly SAAS applications using Laravel, Inertia.js, and Tailwind CSS. Our unique value proposition is delivering complete SAAS solutions in just 2-3 weeks through AI-assisted programming and pre-built generic solutions.
 
 CORE OFFERINGS:
 1. SAAS Development Services
@@ -33,7 +33,7 @@ TARGET AUDIENCE:
 CONTACT INFORMATION:
 - Website: https://nexteam.id
 - Email: contaxt@nexteam.id
-- Location: Jakarta, Indonesia
+- Location: Pasuruan, Indonesia
 - Service Area: Indonesia and Southeast Asia
 
 KEY MESSAGES:

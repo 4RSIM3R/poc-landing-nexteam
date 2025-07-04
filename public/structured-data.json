@@ -17,7 +17,7 @@
       "numberOfEmployees": "5-10",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Jakarta",
+        "addressLocality": "Pasuruan",
         "addressCountry": "ID"
       },
       "contactPoint": {

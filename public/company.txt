@@ -4,7 +4,7 @@ LEGAL INFORMATION:
 - Company Name: Nexteam Teknologi Indonesia
 - Business Type: Software Development Agency
 - Founded: 2020
-- Location: Jakarta, Indonesia
+- Location: Pasuruan, Indonesia
 - Service Area: Indonesia and Southeast Asia
 - Team Size: 5-10 employees
 - Experience: 5+ years in web application development
@@ -99,7 +99,7 @@ PROJECT EXAMPLES:
 CONTACT DETAILS:
 - Website: https://nexteam.id
 - Email: contaxt@nexteam.id
-- Location: Jakarta, Indonesia
+- Location: Pasuruan, Indonesia
 - Service Hours: Monday-Friday, 9 AM - 6 PM WIB
 - Response Time: Within 24 hours
 
