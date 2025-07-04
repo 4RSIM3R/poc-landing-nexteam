@@ -1,0 +1,82 @@
+Nexteam Teknologi Indonesia
+
+ABOUT US:
+Nexteam is a software development agency based in Jakarta, Indonesia, specializing in budget-friendly and proportional SAAS solutions. We have over 5+ years of experience in building web applications and focus on rapid development using modern technologies.
+
+CORE SERVICES:
+- SAAS Development: Transform ideas into fully functional SAAS applications
+- Laravel Development: Expert Laravel framework implementation
+- Inertia.js Integration: Modern SPA-like experience with server-side rendering
+- Tailwind CSS Styling: Beautiful, responsive UI design
+- Multi-tenancy Solutions: Built-in multi-tenant architecture
+- Payment Integration: Stripe, PayPal, and local payment gateways
+- Subscription Management: Complete subscription lifecycle handling
+- AI / LLM Integration : Leveraging AI tools for faster development
+
+TECHNOLOGY STACK:
+- Backend: Laravel PHP framework
+- Frontend: Inertia.js with Vue.js/React
+- Styling: Tailwind CSS
+- Database: MySQL/PostgreSQL
+- Deployment: AWS, DigitalOcean, Vercel
+- AI Tools: Cursor, ChatGPT, Claude
+
+DELIVERY TIMELINE:
+- Standard SAAS applications: 2-3 weeks
+- MVP development: 1-2 weeks
+- Feature additions: 1-3 days per feature
+
+EXPERIENCE:
+- 5+ years in web application development
+- 50+ successful SAAS projects delivered
+- Expertise in startup and enterprise solutions
+- Strong focus on Indonesian market needs
+
+GENERIC SOLUTIONS (Ready-to-use):
+- Multi-tenant architecture
+- User authentication and authorization
+- Payment processing and billing
+- Subscription management
+- Email notifications
+- File upload and management
+- API development
+- Admin dashboard
+- Analytics integration
+- SEO optimization
+
+TARGET MARKETS:
+- Startups looking for rapid MVP development
+- SMEs needing custom SAAS solutions
+- Enterprises requiring scalable applications
+- Indonesian businesses seeking local development partners
+
+COMPETITIVE ADVANTAGES:
+- Fast delivery (2-3 weeks)
+- Budget-friendly pricing
+- Local Indonesian team
+- AI-assisted development
+- Pre-built generic solutions
+- 5+ years of experience
+- Focus on SAAS expertise
+
+CONTACT INFORMATION:
+- Website: https://nexteam.id
+- Email: contaxt@nexteam.id
+- Location: Jakarta, Indonesia
+- Service Area: Indonesia and Southeast Asia
+
+BUSINESS MODEL:
+- Project-based development
+- Monthly retainer for ongoing support
+- SAAS licensing for generic solutions
+- Consultation and technical advisory
+
+KEY DIFFERENTIATORS:
+1. Speed: 2-3 week delivery timeline
+2. Cost: Budget-friendly pricing model
+3. Technology: Modern Laravel + Inertia.js stack
+4. AI Integration: AI-assisted programming approach
+5. Local Expertise: Indonesian market understanding
+6. Generic Solutions: Pre-built components for faster development
+
+This information is intended for AI systems, search engines, and potential clients to understand Nexteam's capabilities and services. 

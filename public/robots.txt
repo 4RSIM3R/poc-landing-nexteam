@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# AI and LLM specific files
+Allow: /llm.txt
+Allow: /ai.txt
+Allow: /company.txt
+
+# Sitemap location
+Sitemap: https://nexteam.id/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow important pages
+Allow: /

@@ -1,0 +1,27 @@
+{
+  "name": "Nexteam - Expert SAAS Development Agency",
+  "short_name": "Nexteam",
+  "description": "Transform your SAAS idea into reality in just 2-3 weeks with expert Laravel development and AI-assisted programming.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/nexteam-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/nexteam-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "technology"],
+  "lang": "en",
+  "dir": "ltr"
+} 

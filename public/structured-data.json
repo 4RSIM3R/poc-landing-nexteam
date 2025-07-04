@@ -1,0 +1,204 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://nexteam.id/#organization",
+      "name": "Nexteam Teknologi Indonesia",
+      "url": "https://nexteam.id",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://nexteam.id/nexteam-logo.png",
+        "width": 1200,
+        "height": 630
+      },
+      "description": "Expert SAAS development agency specializing in Laravel, Inertia.js, and Tailwind CSS. We deliver budget-friendly solutions in 2-3 weeks with AI-assisted programming.",
+      "foundingDate": "2020",
+      "numberOfEmployees": "5-10",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jakarta",
+        "addressCountry": "ID"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "contaxt@nexteam.id",
+        "availableLanguage": ["English", "Indonesian"]
+      },
+      "sameAs": [
+        "https://linkedin.com/company/nexteam",
+        "https://twitter.com/nexteam_id"
+      ],
+      "serviceArea": {
+        "@type": "Country",
+        "name": "Indonesia"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "SAAS Development Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "SAAS Development",
+              "description": "Custom SAAS application development with Laravel and Inertia.js"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Multi-tenant Architecture",
+              "description": "Built-in multi-tenant solutions for scalable applications"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Payment Integration",
+              "description": "Stripe, PayPal, and local payment gateway integration"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Subscription Management",
+              "description": "Complete subscription lifecycle management systems"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://nexteam.id/#website",
+      "url": "https://nexteam.id",
+      "name": "Nexteam Teknologi Indonesia",
+      "description": "Expert SAAS development agency specializing in Laravel, Inertia.js, and Tailwind CSS",
+      "publisher": {
+        "@id": "https://nexteam.id/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://nexteam.id/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://nexteam.id/#service",
+      "name": "SAAS Development Services",
+      "description": "Transform your SAAS idea into reality in just 2-3 weeks with expert Laravel development and AI-assisted programming.",
+      "provider": {
+        "@id": "https://nexteam.id/#organization"
+      },
+      "serviceType": "Software Development",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Indonesia"
+      },
+      "offers": {
+        "@type": "Offer",
+        "description": "Budget-friendly SAAS development with 2-3 week delivery timeline",
+        "priceCurrency": "IDR",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "price": "Contact for quote",
+          "priceCurrency": "IDR"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Development Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Laravel Development",
+              "description": "Expert Laravel framework implementation"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Inertia.js Integration",
+              "description": "Modern SPA-like experience with server-side rendering"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tailwind CSS Styling",
+              "description": "Beautiful, responsive UI design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "AI-Assisted Programming",
+              "description": "Leveraging AI tools for faster development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://nexteam.id/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://nexteam.id"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://nexteam.id/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does it take to develop a SAAS application?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We deliver standard SAAS applications in 2-3 weeks using our pre-built generic solutions and AI-assisted programming approach."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What technologies do you use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We specialize in Laravel PHP framework, Inertia.js for frontend, Tailwind CSS for styling, and integrate AI tools like Cursor for faster development."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide multi-tenant solutions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we have pre-built multi-tenant architecture solutions that can be quickly implemented in your SAAS application."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What payment gateways do you support?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We integrate Stripe, PayPal, and local Indonesian payment gateways for comprehensive payment processing solutions."
+          }
+        }
+      ]
+    }
+  ]
+} 
